@@ -1,0 +1,40 @@
+{
+    "nombreApp" : "jsonlist",
+    "rutas" : [
+        {
+            "ruta" : "alert",
+            "icon" : "add_alert",
+            "texto": "Alertas"
+        },
+        {
+            "ruta" : "avatar",
+            "icon" : "accessibility",
+            "texto": "Avatars"
+        },
+        {
+            "ruta" : "card",
+            "icon" : "folder_open",
+            "texto": "Cards - Tarjetas"
+        },
+        {
+            "ruta" : "animated",
+            "icon" : "animation_outlined",
+            "texto": "Contenedor animado"
+        },
+        {
+            "ruta" : "input",
+            "icon" : "input",
+            "texto": "inputs"
+        },
+        {
+            "ruta" : "input",
+            "icon" : "settings_rounded",
+            "texto": "sliders - checks"
+        },
+        {
+            "ruta" : "input",
+            "icon" : "list",
+            "texto": "listas - scrolls"
+        }
+    ]
+}
